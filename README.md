@@ -1,1 +1,1 @@
-# ruby-lesson
+# Ruby lesson repository
